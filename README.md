@@ -22,7 +22,7 @@ This is a delivery service example REST API.
 
 This project was my first experience with the **Prisma ORM (the best to ever exist)**, as well as **Docker** - a tool I had a hard time with back then.
 
-Furthermore, during its development I learned about JWT, middlewares, error handling, and strengthened my understanding of the SOLID 🧱 principles. 
+Furthermore, during its development I learned about JWT, middlewares, error handling and the SOLID 🧱 principles. 
 
 
 
